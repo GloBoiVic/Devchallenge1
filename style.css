@@ -1,0 +1,46 @@
+/* Reset all the default stylings */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+header {
+  border: 0.2em solid gray;
+  display: flex;
+  padding: 1em;
+  justify-content: flex-start;
+}
+
+p a {
+  font-family: "Inconsolata";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: #333333;
+}
+
+/* visited link */
+a:visited {
+  color: #333333;
+}
+
+/* mouse over link */
+a:hover {
+  color: #1e1e1e;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
