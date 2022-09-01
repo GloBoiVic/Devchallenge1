@@ -2,11 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  min-height: 100px;
+}
+
+body {
+  max-height: 300px;
 }
 
 header {
-  height: 100px;
   display: flex;
   padding: 1em;
   justify-content: flex-start;
@@ -48,19 +50,23 @@ a:active {
 }
 
 main {
+  border: 1px solid red;
   display: flex;
-  height: calc(100vh - 100px);
   align-items: center;
   justify-content: center;
-  padding: 0 2em;
 }
 
 .hero-img {
-  max-width: 670px;
+  max-width: 550px;
+}
+
+.left-side {
+  align-self: flex-start;
 }
 
 .right-side {
   width: 30%;
+  align-self: flex-start;
 }
 
 main h1 {
