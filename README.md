@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404-Not-Found</h1>
 
 <div align="center">
@@ -29,21 +27,21 @@
 - [Overview](#overview)
   - [Built With Html and CSS](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://drive.google.com/uc?export=view&id=12gOOdlvt7XdPOCSd34VxM0DOA4as0DQE)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Hello, I am Vic. I am interested in all things trading. I had fun with this challenge.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see the demo of this project at <a href="https://404-not-found-challenge.victorike2.repl.co/">Replit</a>
+- I first found this challenge a while back and it has been on the back-burner for a while. At first, I could not figure out how to use flexbox so I hit the books.
+- After learning flexbox and its magically features, I was able to tackle this challenge easily. Very beginner friendly indeed.
+- As we self-taught aspiring software developer, I have to stay motivated and hold myself accountable to continue the grind, continue learning all that I can and practice! Practice what I learn. Looking forward to the next challenge.
 
 ### Built With
 
@@ -56,15 +54,15 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- GitHub [@vicdatrader](https://github.com/vicdatrader)
+- GitHub [@GloBoiVic](https://github.com/GloBoiVic)

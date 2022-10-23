@@ -1,0 +1,132 @@
+/* Custom color variables  */
+:root {
+  --gray-1: #333333;
+  --gray-2: #4f4f4f;
+  --gray-3: #bdbdbd;
+  --orange: #ff6d5b;
+  --main-white: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Space Mono", monospace;
+  min-height: 100vh;
+  width: 100%;
+  font-size: 62.5%;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  height: 5vh;
+  font-family: "Inconsolata", monospace;
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin: 1rem 0 1.5rem 1rem;
+  color: var(--gray-1);
+}
+
+a {
+  text-decoration: none;
+  color: var(--gray-1);
+}
+
+a:hover {
+  color: var(--orange);
+}
+
+img {
+  width: 70%;
+}
+
+.card-img {
+  display: flex;
+  justify-content: center;
+}
+
+.card-wrapper {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  margin: 1rem auto 6rem 1rem;
+}
+
+h1 {
+  color: var(--gray-1);
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 3.5rem;
+  margin: 2rem auto 1.5rem auto;
+}
+
+.info {
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: var(--gray-2);
+  margin: 0 auto 1.5rem auto;
+}
+
+.card-text .btn {
+  font-weight: 700;
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 2px;
+  background-color: #333333;
+  color: var(--main-white);
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 1rem 1rem -1rem;
+  font-family: "Montserrat", monospace;
+  font-size: 0.8rem;
+  color: var(--gray-3);
+}
+
+@media only screen and (min-width: 600px) {
+  .card-wrapper {
+    flex-direction: row;
+    gap: 4rem;
+    flex: 100%;
+    max-width: 90%;
+    margin: 4rem auto;
+  }
+
+  header {
+    font-size: 2rem;
+    margin: 2rem;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  .card-img {
+    flex: 2 0 55%;
+  }
+
+  .card-text {
+    flex: 1 2 45%;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .card-wrapper {
+    max-width: 80vw;
+  }
+}
