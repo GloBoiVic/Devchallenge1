@@ -94,6 +94,10 @@ footer {
   color: var(--gray-3);
 }
 
+span {
+  color: var(--orange);
+}
+
 @media only screen and (min-width: 600px) {
   .card-wrapper {
     flex-direction: row;
@@ -128,5 +132,9 @@ footer {
 @media only screen and (min-width: 900px) {
   .card-wrapper {
     max-width: 80vw;
+  }
+
+  footer {
+    font-size: 1rem;
   }
 }

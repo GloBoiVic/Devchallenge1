@@ -39,9 +39,9 @@
 Hello, I am Vic. I am interested in all things trading. I had fun with this challenge.
 
 - You can see the demo of this project at <a href="https://404-not-found-challenge.victorike2.repl.co/">Replit</a>
-- I first found this challenge a while back and it has been on the back-burner for a while. At first, I could not figure out how to use flexbox so I hit the books.
-- After learning flexbox and its magically features, I was able to tackle this challenge easily. Very beginner friendly indeed.
-- As we self-taught aspiring software developer, I have to stay motivated and hold myself accountable to continue the grind, continue learning all that I can and practice! Practice what I learn. Looking forward to the next challenge.
+- I first found this challenge a while back and it has been on the back burner for a while. At first, I could not figure out how to use flexbox so I hit the books.
+- After learning flexbox and its magical features, I was able to tackle this challenge easily. Very beginner friendly indeed.
+- As we self-taught aspiring software developer, I have to stay motivated and hold myself accountable to continue the grind, continue learning all that I can, and practice! Practice what I learn. Looking forward to the next challenge.
 
 ### Built With
 
