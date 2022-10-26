@@ -36,7 +36,7 @@
 
 ![screenshot](https://drive.google.com/uc?export=view&id=12gOOdlvt7XdPOCSd34VxM0DOA4as0DQE)
 
-Hello, I am Vic. I am interested in all things trading. I had fun with this challenge.
+Hello, I am Vic. I am interested in all things coding. I had fun with this challenge.
 
 - You can see the demo of this project on <a href="https://globoivic.github.io/Devchallenge1/">Github</a>
 - I first found this challenge a while back and it has been on the back burner for a while. At first, I could not figure out how to use flexbox so I hit the books.
